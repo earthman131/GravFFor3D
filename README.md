@@ -6,7 +6,7 @@ Developed by Lianghui Guo and Yatong Cui.
 
 # Principles
 
-GravFFor3D is a Matlab code for gravity  wavenumber-domain forward modeling of a 3D mesh model. It is usually used to subdivide the subsurface into many cells of the same size and regular arrangement but with varied density. GravFFor3D is suitable for fast forward modeling of large-scale models and can directly calculate the anomalies of the observational surface. 
+GravFFor3D is a Matlab code for gravity forward modeling of a 3D mesh model in the wavenumber domain. It is usually used to subdivide the subsurface into many cells of the same size and regular arrangement but with varied density. GravFFor3D is suitable for fast forward gravity modeling due to a large-scale model and can directly calculate the anomalies and gradients of the flat observational surface.
 
 # Prerequisites
 
